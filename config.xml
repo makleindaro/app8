@@ -42,6 +42,6 @@ maklein damian romero
 
 <!--Colocar icono app-->
 
-<icon src="res/android/Pirate-Island-Treasure-Map-icon.png" />
+<icon src="res/android/mdpi.png" />
 
 </widget>
